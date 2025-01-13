@@ -35,7 +35,7 @@ The app is ideal for showcasing AI capabilities in real-time facial analysis.
 ## Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/developedbyjms/face-recognition-app.git
+   git clone https://github.com/developedbyjms/Droidscript-Projects.git
 
 2. Load the required FaceAPI plugin in your project.
 
