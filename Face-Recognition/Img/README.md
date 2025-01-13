@@ -1,1 +1,1 @@
-Add images in this file.
+Add images in this folder.
