@@ -1,4 +1,4 @@
-#DeepNeuralNetwork
+# DeepNeuralNetwork
 
 Python-based application for creating and managing machine learning models using a graphical user interface. The app facilitates tasks such as adding training data, managing datasets, training deep neural networks, and performing predictions. Key functionalities include:
 
