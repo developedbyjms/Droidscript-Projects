@@ -1,6 +1,6 @@
 A Face Recognition App built using FaceAPI for detecting age, gender, expressions, and identifying faces from images. Includes features like facial landmark detection, bounding box annotation, and user-friendly image selection. Ideal for developers looking to integrate AI-powered facial analysis into their applications.
 
-
+![Demo](https://github.com/developedbyjms/Droidscript-Projects/blob/main/Face-Recognition/Img/Screenshot_20250113-082333_1.png)
 # Face Recognition App with FaceAPI
 
 ## Description
